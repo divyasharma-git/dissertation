@@ -3,10 +3,10 @@
 This folder contains the code to support the dissertation: Lockdown Lifted: Understanding explanatory features of spatial resilience from London's public transport demand recovery. 
 
 The code contains six primary notebooks: 
-# 1 Data Processing (01_data_processing_v3 & 01_data_processing)
-# 2 Counterfactual Estimate (02-analysis_prediction2020)
-# 3 Calculate Resilience Measure (03.1-analysis_recoveryrate)
-# 4 Spatial Analysis (03.2-analysis_featurecreation & 04-analysis_spatialmodel_v2). 
+1. Data Processing (01_data_processing_v3 & 01_data_processing)
+2. Counterfactual Estimate (02-analysis_prediction2020)
+3. Calculate Resilience Measure (03.1-analysis_recoveryrate)
+4. Spatial Analysis (03.2-analysis_featurecreation & 04-analysis_spatialmodel_v2). 
 
 The workflow largely follows the diagram below:
 
