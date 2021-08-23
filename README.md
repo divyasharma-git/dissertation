@@ -1,6 +1,7 @@
 # dissertation
 
-This folder contains the code to support the dissertation: <b>Lockdown Lifted: Understanding explanatory features of spatial resilience from London's public transport demand recovery </b> 
+This folder contains the code to support the dissertation: 
+### <p><b>Lockdown Lifted: Understanding explanatory features of spatial resilience from London's public transport demand recovery </b> </p>
 
 ### Abstract
 
